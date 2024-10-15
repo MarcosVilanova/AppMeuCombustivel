@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Downloads\\dev\\MauiAppCombustivel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280E24F3-4122-4117-899D-9392A400BE8F}|MauiAppCombustivel\\MauiAppCombustivel.csproj|c:\\users\\marco\\downloads\\dev\\mauiappcombustivel\\mauiappcombustivel\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{280E24F3-4122-4117-899D-9392A400BE8F}|MauiAppCombustivel\\MauiAppCombustivel.csproj|solutionrelative:mauiappcombustivel\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280E24F3-4122-4117-899D-9392A400BE8F}|MauiAppCombustivel\\MauiAppCombustivel.csproj|c:\\users\\marco\\downloads\\dev\\mauiappcombustivel\\mauiappcombustivel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280E24F3-4122-4117-899D-9392A400BE8F}|MauiAppCombustivel\\MauiAppCombustivel.csproj|solutionrelative:mauiappcombustivel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Marco\\Downloads\\dev\\MauiAppCombustivel\\MauiAppCombustivel\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppCombustivel\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Marco\\Downloads\\dev\\MauiAppCombustivel\\MauiAppCombustivel\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppCombustivel\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:05:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Downloads\\dev\\MauiAppCombustivel\\MauiAppCombustivel\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppCombustivel\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Marco\\Downloads\\dev\\MauiAppCombustivel\\MauiAppCombustivel\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppCombustivel\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:05:33.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

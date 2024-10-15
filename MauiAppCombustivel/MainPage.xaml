@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppCombustivel.MainPage"
+             BackgroundColor="Black">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="30,0"
+            Spacing="5">
+            <Image
+                Source="logo.png"
+                HeightRequest="250"
+                Aspect="AspectFit"
+                SemanticProperties.Description="Logo Posto de Gasolina" 
+                Margin="0,0,0,-15"/>
+
+            <BoxView x:Name="underline" HeightRequest="1.5" Margin="0,0,0,10" BackgroundColor="#FFD700" />
+
+            <Label HorizontalOptions="Center" FontSize="21" Margin="0,0,100,0" Text="Marca do Veículo:"/>
+            <Entry HorizontalOptions="Center" BackgroundColor="#4A4A4A"  WidthRequest="300" x:Name="txt_marca" Placeholder="Digite a marca do veiculo"/>
+
+            <Label HorizontalOptions="Center" FontSize="21" Margin="0,6,100,0" Text="Modelo do Veículo:"/>
+            <Entry HorizontalOptions="Center" BackgroundColor="#4A4A4A"  WidthRequest="300" x:Name="txt_modelo" Placeholder="Digite o modelo do Veiculo"/>
+
+            <Label HorizontalOptions="Center" FontSize="21" Margin="0,6,128,0" Text="Preço do Etanol:"/>
+            <Entry HorizontalOptions="Center" BackgroundColor="#4A4A4A" Margin="0,0,100,0" WidthRequest="200" x:Name="txt_etanol" Placeholder="R$ "/>
+
+            <Label HorizontalOptions="Center" FontSize="21" Margin="0,6,110,0" Text="Preço da Gasolina:" />
+            <Entry HorizontalOptions="Center" BackgroundColor="#4A4A4A" Margin="0,0,100,13" WidthRequest=" 200" x:Name="txt_gasolina" Placeholder="R$ "/>
+            
+            
+
+            <Button BackgroundColor="#FFD700"
+                    WidthRequest="200"
+                    HeightRequest="50"
+                    HorizontalOptions="Center" 
+                    Text="Qual compensa mais?" 
+                    Clicked="Button_Clicked"
+                    FontSize="17"
+                    TextColor="Black"
+                     Margin="0,0,95,0" />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
